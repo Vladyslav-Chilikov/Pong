@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PongProject", "PongProject.vcxproj", "{28CEAD1C-9A67-4F2D-BA73-C02EA3D853CD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PongSetup", "..\PongSetup\PongSetup.vdproj", "{DCBB590E-99B6-4B1A-9513-7B78B020CD4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28CEAD1C-9A67-4F2D-BA73-C02EA3D853CD}.Debug|x64.ActiveCfg = Debug|x64
+		{28CEAD1C-9A67-4F2D-BA73-C02EA3D853CD}.Debug|x64.Build.0 = Debug|x64
+		{28CEAD1C-9A67-4F2D-BA73-C02EA3D853CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{28CEAD1C-9A67-4F2D-BA73-C02EA3D853CD}.Debug|x86.Build.0 = Debug|Win32
+		{28CEAD1C-9A67-4F2D-BA73-C02EA3D853CD}.Release|x64.ActiveCfg = Release|x64
+		{28CEAD1C-9A67-4F2D-BA73-C02EA3D853CD}.Release|x64.Build.0 = Release|x64
+		{28CEAD1C-9A67-4F2D-BA73-C02EA3D853CD}.Release|x86.ActiveCfg = Release|Win32
+		{28CEAD1C-9A67-4F2D-BA73-C02EA3D853CD}.Release|x86.Build.0 = Release|Win32
+		{DCBB590E-99B6-4B1A-9513-7B78B020CD4E}.Debug|x64.ActiveCfg = Debug
+		{DCBB590E-99B6-4B1A-9513-7B78B020CD4E}.Debug|x86.ActiveCfg = Debug
+		{DCBB590E-99B6-4B1A-9513-7B78B020CD4E}.Release|x64.ActiveCfg = Release
+		{DCBB590E-99B6-4B1A-9513-7B78B020CD4E}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6DD44CD-5375-41CA-A196-A3983ED97C85}
+	EndGlobalSection
+EndGlobal
