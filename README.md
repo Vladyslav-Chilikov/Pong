@@ -10,3 +10,5 @@ Player 1: W, S
 Player 2: Up, Down 
 
 R, SPACE for ball launch
+
+Num1 and Num2 for ON/OFF AI for Players
